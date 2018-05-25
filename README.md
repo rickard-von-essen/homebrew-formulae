@@ -15,6 +15,8 @@ Install the packages it contains like any other Homebrew package:
 
 ## Formaulae
 
+* [hid_listen](https://github.com/PaulStoffregen/hid_listen)
+
 ## License
 
 This code is distributed under the MIT license, see LICENSE.
