@@ -10,11 +10,10 @@ Tap this repository:
 
 Install the packages it contains like any other Homebrew package:
 
-    brew install --HEAD prl-utils
+    brew install <formula>
     # etc.
 
 ## Formaulae
-* [prl-utils](https://github.com/rickard-von-essen/prl-utils)
 
 ## License
 
