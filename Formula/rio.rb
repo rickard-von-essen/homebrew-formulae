@@ -3,8 +3,8 @@ class Rio < Formula
   homepage "https://rio.io"
   url "https://github.com/rancher/rio.git",
     :using    => :git,
-    :tag      => "v0.1.1",
-    :revision => "271d91966f46b9dc3b7113af43c64cac61576831"
+    :tag      => "v0.4.0",
+    :revision => "a8d35ef9e862b09ffce5ae082362ac443356bf46"
 
   depends_on "go" => :build
 
