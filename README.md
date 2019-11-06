@@ -15,6 +15,7 @@ Install the packages it contains like any other Homebrew package:
 
 ## Formaulae
 
+* [CGTerm](https://paradroid.automac.se/cgterm)
 * [hid_listen](https://github.com/PaulStoffregen/hid_listen)
 * [rio](https://rio.io/)
 
@@ -22,4 +23,4 @@ Install the packages it contains like any other Homebrew package:
 
 This code is distributed under the MIT license, see LICENSE.
 
-© 2014 Rickard von Essen
+© 2014-2019 Rickard von Essen
