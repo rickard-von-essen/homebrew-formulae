@@ -18,6 +18,7 @@ Install the packages it contains like any other Homebrew package:
 * [CGTerm](https://paradroid.automac.se/cgterm)
 * [hid_listen](https://github.com/PaulStoffregen/hid_listen)
 * [rio](https://rio.io/)
+* [tcpser](http://www.jbrain.com/pub/linux/serial/)
 
 ## License
 
