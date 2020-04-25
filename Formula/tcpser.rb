@@ -3,8 +3,9 @@ require_relative "../Library/patch_dir_download_strategy"
 class Tcpser < Formula
   desc "Emulates a Hayes compatible modem that uses TCP/IP for incoming and outgoing connections."
   homepage "https://github.com/go4retro/tcpser"
-  url "https://github.com/go4retro/tcpser.git", :rev => "e641bc961d618401a9443dc02468f5549401e79d"
-  version "1.1rc1-1"
+  url "https://github.com/go4retro/tcpser.git"
+  sha256 "4dfef1b11d180eacabe6142c4e901a5bbc244505a8f1c986be79c2454a8ca11e"
+  version "1.1rc3"
 
   def install
     system "make", "tcpser"
